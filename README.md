@@ -1,4 +1,4 @@
-# Personal Website ⚡️ 
+# Landing Page Website 📄 
 > A clean, beautiful, responsive landing page template for any website!
 
 ### Website Preview
